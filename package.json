@@ -1,0 +1,9 @@
+{
+  "name": "MangoTango",
+  "version": "1.0.0",
+  "description": "Digital Agency",
+  "main": "index.js",
+  "repository": "git@github.com:RB-bit/mangotango.git",
+  "author": "mango tango",
+  "license": "MIT"
+}
